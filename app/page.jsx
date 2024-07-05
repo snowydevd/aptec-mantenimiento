@@ -9,7 +9,7 @@ export default function Home() {
         <div className="w-full">
           <h1 className="lg:text-6xl text-2xl font-bold largeShadow`">
             Estamos trabajando para <span className="">REVOLUCIONAR</span> la
-            experiencia del client.
+            experiencia del cliente.
           </h1>
           {/* <article className=" text-xl mt-16 flex w-full justify-center items-center">
             <div className="lg:w-2/4 w-3/4">
